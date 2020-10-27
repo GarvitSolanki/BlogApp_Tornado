@@ -16,7 +16,7 @@ checkbox-support==0.22
 click==0.4.43+16.4.20170613.0ubuntu1
 command-not-found==0.3
 constantly==15.1.0
-cryptography==2.3
+cryptography==3.2
 cssselect==1.1.0
 decorator==4.0.6
 defer==1.0.6
