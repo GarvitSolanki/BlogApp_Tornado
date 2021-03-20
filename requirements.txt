@@ -32,7 +32,7 @@ httplib2==0.9.1
 hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
-Jinja2==2.8
+Jinja2==2.11.3
 junitxml==0.6
 language-selector==0.1
 LibAppArmor==2.10.95
